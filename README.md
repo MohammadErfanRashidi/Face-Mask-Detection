@@ -1,5 +1,8 @@
 # Face Mask Detection using Convolutional Neural Networks (CNN)
 
+## Kaggle dataset:
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
 ## Overview
 This project implements a deep learning-based system to detect whether a person is wearing a face mask. It uses a Convolutional Neural Network (CNN) trained on a labeled dataset of images with and without masks.
 
